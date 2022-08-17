@@ -27,21 +27,10 @@ module.exports = {
         },
       ],
     },
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
-<script type="text/javascript">
-  algoliasearchNetlify({
-    appId: 'ACSA4UXCDJ',
-    apiKey: '<YOUR_ALGOLIA_SEARCH_API_KEY>',
-    siteId: 'a6426bf4-55e0-4ba9-8c38-a911ff66dbef',
-    branch: 'main',
-    selector: 'div#search',
-  });
-</script>
     algolia: {
-      apiKey: "32514d95362b1c59ce737741ceb25cdf",
-      indexName: "d",
-      appId: "ACSA4UXCDJ",
+      apiKey: "ed3abe914f74587ed6c24e8f32b059d8N4JV62LSX1",
+      indexName: "zendesk_ssport_articles",
+      appId: "N4JV62LSX1",
       // Optional: see doc section bellow
       contextualSearch: true,
 
