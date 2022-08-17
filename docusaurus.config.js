@@ -1,7 +1,7 @@
 module.exports = {
   title: "雙龍體育支援中心",
   tagline: "雙龍體育支援中心",
-  url: "https://help.ssangyongsports.eu.org/",
+  url: "https://support.hashnode.com/",
   baseUrl: "/",
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
@@ -13,11 +13,11 @@ module.exports = {
     navbar: {
       // title: '雙龍體育',
       logo: {
-        alt: "Hashnode Support Logo",
+        alt: "雙龍體育",
         src:
-          "",
+          "https://uploads-ssl.webflow.com/62ccd191dc4db47eff558608/62ccd1d28b3c0f4a9a2a262c_logo2.png",
         srcDark:
-          "",
+          "https://uploads-ssl.webflow.com/62ccd191dc4db47eff558608/62ccd1d28b3c0f4a9a2a262c_logo2.png",
       },
       items: [
         {
@@ -28,9 +28,9 @@ module.exports = {
       ],
     },
     algolia: {
-      apiKey: "",
-      indexName: "",
-      appId: "",
+      apiKey: "b49750d742345b19c79e80a2e3e20312",
+      indexName: "docs",
+      appId: "AMERDMZM12",
       // Optional: see doc section bellow
       contextualSearch: true,
 
@@ -53,11 +53,11 @@ module.exports = {
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/ssport",
+              href: "https://twitter.com/hashnode",
             },
             {
-              label: "社區",
-              href: "https://discuss.ssangyongsports.eu.org/",
+              label: "Discord",
+              href: "https://discord.gg/qsAQfxX",
             },
           ],
         },
