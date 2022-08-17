@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    "FAQs" : ['123'],
+    "開始" : ['gettingstarted'],
   },
 };
