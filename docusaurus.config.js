@@ -1,7 +1,7 @@
 module.exports = {
   title: "雙龍體育支援中心",
   tagline: "雙龍體育支援中心",
-  url: "https://support.hashnode.com/",
+  url: "https://help.ssangyongsports.eu.org/",
   baseUrl: "/",
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
