@@ -28,7 +28,7 @@ module.exports = {
       ],
     },
     algolia: {
-      apiKey: "c3acd144cc4ba2d3b41210af611945ef",
+      apiKey: "9e0173ae8e628bd9b4ca0f8ba7a82e99",
       indexName: "help",
       appId: "IZIAGNWJL1",
       // Optional: see doc section bellow
