@@ -7,15 +7,15 @@ import styles from './styles.module.css';
 import SearchHeader from "../components/SearchHeader/SearchHeader";
 const features = [
   {
-    title: 'Getting Started',
+    title: '開始',
     description: (
       <>
-        <li><a href = "docs/gettingstarted">開始</a></li>        
-
+        <li><a href = "https://help.ssangyongsports.eu.org/docs/gettingstarted">安裝</a></li>
       </>
     ),
   },
-  {
+];
+
 function Feature({ title, description}) {
   return (
     <div className={clsx('col col--4', styles.feature)}>
