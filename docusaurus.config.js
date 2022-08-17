@@ -28,9 +28,9 @@ module.exports = {
       ],
     },
     algolia: {
-      apiKey: "b49750d742345b19c79e80a2e3e20312",
-      indexName: "docs",
-      appId: "AMERDMZM12",
+      apiKey: "a7744ff355cd67d0cb269672ce71fe8d",
+      indexName: "help",
+      appId: "IZIAGNWJL1",
       // Optional: see doc section bellow
       contextualSearch: true,
 
