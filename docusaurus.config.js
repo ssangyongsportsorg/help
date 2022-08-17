@@ -15,9 +15,9 @@ module.exports = {
       logo: {
         alt: "Hashnode Support Logo",
         src:
-          "https://cdn.hashnode.com/res/hashnode/image/upload/v1611856421169/zcx6qvf_J.png?auto=compress",
+          "",
         srcDark:
-          "https://cdn.hashnode.com/res/hashnode/image/upload/v1611856682886/N1xqQtDit.png?auto=compress",
+          "",
       },
       items: [
         {
@@ -28,9 +28,9 @@ module.exports = {
       ],
     },
     algolia: {
-      apiKey: "ed3abe914f74587ed6c24e8f32b059d8N4JV62LSX1",
-      indexName: "zendesk_ssport_articles",
-      appId: "N4JV62LSX1",
+      apiKey: "",
+      indexName: "",
+      appId: "",
       // Optional: see doc section bellow
       contextualSearch: true,
 
@@ -53,11 +53,11 @@ module.exports = {
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/hashnode",
+              href: "https://twitter.com/ssport",
             },
             {
-              label: "Discord",
-              href: "https://discord.gg/qsAQfxX",
+              label: "社區",
+              href: "https://discuss.ssangyongsports.eu.org/",
             },
           ],
         },
