@@ -1,3 +1,2 @@
 <p align="center">
-
-  <img src="https://help.ssangyongsports.eu.org/" alt="Woot-logo" width="240" />
+<img src="https://img.ssangyongsports.eu.org/logo2.png" alt="Woot-logo" width="240" />
