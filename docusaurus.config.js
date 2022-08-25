@@ -1,7 +1,7 @@
 module.exports = {
   title: "雙龍體育支援中心",
   tagline: "雙龍體育支援中心",
-  url: "https://support.hashnode.com/",
+  url: "https://help.ssangyongsports.eu.org/",
   baseUrl: "/",
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
@@ -39,9 +39,6 @@ module.exports = {
 
       //... other Algolia params
     },
-    gtag: {
-      trackingID: 'UA-69832919-13',
-    },
     footer: {
       links: [
         {
@@ -71,7 +68,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/ssangyongsports/support-1/edit/main",
+          editUrl: "https://github.com/ssangyongsports//edit/main",
         },
 
         theme: {
