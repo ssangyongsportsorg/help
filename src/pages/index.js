@@ -8,7 +8,8 @@ import SearchHeader from "../components/SearchHeader/SearchHeader";
 import ExploreContent from "../components/ExploreContent/ExploreContent";
 const features = [
 <ExploreContent />
-function Feature({ title, description}) {
+
+  function Feature({ title, description}) {
   return (
     <div className={clsx('col col--4', styles.feature)}>
       <h3>{title}</h3>
