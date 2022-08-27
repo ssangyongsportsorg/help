@@ -7,9 +7,7 @@ import styles from './styles.module.css';
 import SearchHeader from "../components/SearchHeader/SearchHeader";
 import ExploreContent from "../components/ExploreContent/ExploreContent";
 const features = [
-<hr></hr>
-      <ExploreContent />
-      <hr></hr>
+<ExploreContent />
 function Feature({ title, description}) {
   return (
     <div className={clsx('col col--4', styles.feature)}>
