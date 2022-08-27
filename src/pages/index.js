@@ -5,17 +5,11 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 import SearchHeader from "../components/SearchHeader/SearchHeader";
+import ExploreContent from "../components/ExploreContent/ExploreContent";
 const features = [
-  {
-    title: '開始',
-    description: (
-      <>
-        <li><a href = "https://help.ssangyongsports.eu.org/docs/gettingstarted">安裝</a></li>
-      </>
-    ),
-  },
-];
-
+<hr></hr>
+      <ExploreContent />
+      <hr></hr>
 function Feature({ title, description}) {
   return (
     <div className={clsx('col col--4', styles.feature)}>
