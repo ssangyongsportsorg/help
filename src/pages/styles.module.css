@@ -11,7 +11,7 @@ hr {
   overflow: hidden;
   background-color: #3578e5;
   color: #ffffff;
-  background-image: linear-gradient(#002fa9, rgba(82, 151, 233, 0.79)), url(https://raw.githubusercontent.com/zowe/docs-site/0f786e5109f7e1abef1d43a1baa5d0b05c0529c2/static/img/background-img.svg");
+  background-image: linear-gradient(#002fa9, rgba(82, 151, 233, 0.79)), url(https://d33wubrfki0l68.cloudfront.net/51b5efba072074df07de6e2c457e274647e75054/a2e7d/settings/homepage_background_image.svg");
   animation: waveX 10s linear infinite, waveY 10s linear infinite;
   animation-play-state: paused;
 }
