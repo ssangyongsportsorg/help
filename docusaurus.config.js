@@ -73,6 +73,10 @@ module.exports = {
 
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
+       },
+          prism: {
+			additionalLanguages: ["csharp"],
+			defaultLanguage: "zh-tw",
         },
       },
     ],
