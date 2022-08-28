@@ -29,7 +29,7 @@ module.exports = {
     },
     algolia: {
       apiKey: "f3d2cff14e6378c5fe13fc65e074a7a4",
-      indexName: "ssporthelp",
+      indexName: "docs",
       appId: "HZOP3IN8L1",
       // Optional: see doc section bellow
       contextualSearch: true,
