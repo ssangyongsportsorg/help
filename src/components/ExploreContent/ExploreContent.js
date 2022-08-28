@@ -5,19 +5,18 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
 
 const firstDataRow = [
-  {
-    title: "Get Started",
-    icon: "img/get_started-icon.png",
-    link: "stable/getting-started/overview",
+title: "References",
+    icon: "img/references-icon.png",
+    link: "stable/appendix/zowe-cli-command-reference",
     description: (
       <>
-        Learn about Zowe™ architecture, components, and how to quickly get
-        started with Zowe. Read about what's new and changed in the Release
-        Notes, FAQs.
+        Get a list of reference materials to help you use Zowe, including the
+        Zowe command line reference, API reference, TPSR, and more.
       </>
     ),
   },
- 
+];
+
 function Feature({ title, link, icon, description }) {
   const [hovered, setHovered] = useState(false);
   const toggleHover = () => setHovered(!hovered);
@@ -80,4 +79,5 @@ function Features() {
   );
 }
 
-export default Features;
+export default Features; 
+            
