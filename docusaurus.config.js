@@ -28,9 +28,9 @@ module.exports = {
       ],
     },
     algolia: {
-      apiKey: "599cec31baffa4868cae4e79f180729b",
-      indexName: "docsearch",
-      appId: "R2IYF7ETH7",
+      apiKey: "b2947888139f07e9d341cad308664e23",
+      indexName: "netlify_a6426bf4-55e0-4ba9-8c38-a911ff66dbef_main_all",
+      appId: "ACSA4UXCDJ",
       // Optional: see doc section bellow
       contextualSearch: true,
 
