@@ -17,66 +17,7 @@ const firstDataRow = [
       </>
     ),
   },
-  {
-    title: "Setup and Use",
-    icon: "img/user_guide-icon.png",
-    link: "stable/user-guide/install-overview",
-    description: (
-      <>
-        Find out how to install and configure Zowe. Learn about how to use 
-        different Zowe components and a numer of Zowe applications and plug-ins.
-      </>
-    ),
-  },
-  {
-    title: "Extend",
-    icon: "img/extend-icon.png",
-    link: "stable/extend/extend-zowe-overview",
-    description: (
-      <>
-        Learn about onboarding your products. Developers can follow tutorials
-        that teach how to build and extend Zowe components.
-      </>
-    ),
-  },
-];
-
-const secondDataRow = [
-  {
-    title: "Troubleshoot",
-    icon: "img/troubleshooting-icon.png",
-    link: "stable/troubleshoot/troubleshooting",
-    description: (
-      <>
-        Get troubleshooting tips to help you understand and effectively resolve
-        problems with Zowe.
-      </>
-    ),
-  },
-  {
-    title: "Contribute",
-    icon: "img/contribute-icon.png",
-    link: "stable/contribute/roadmap-contribute",
-    description: (
-      <>
-        Learn about how you can contribute to Zowe and this documentation. Read about 
-        the Zowe UI and code guidelines.
-      </>
-    ),
-  },
-  {
-    title: "References",
-    icon: "img/references-icon.png",
-    link: "stable/appendix/zowe-cli-command-reference",
-    description: (
-      <>
-        Get a list of reference materials to help you use Zowe, including the
-        Zowe command line reference, API reference, TPSR, and more.
-      </>
-    ),
-  },
-];
-
+ 
 function Feature({ title, link, icon, description }) {
   const [hovered, setHovered] = useState(false);
   const toggleHover = () => setHovered(!hovered);
