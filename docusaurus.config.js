@@ -28,9 +28,9 @@ module.exports = {
       ],
     },
     algolia: {
-      apiKey: "b2947888139f07e9d341cad308664e23",
-      indexName: "netlify_a6426bf4-55e0-4ba9-8c38-a911ff66dbef_main_all",
-      appId: "ACSA4UXCDJ",
+      apiKey: "2a0d7211928ebd306aee7e88e6b38029",
+      indexName: "ssporthelp",
+      appId: "HZOP3IN8L1",
       // Optional: see doc section bellow
       contextualSearch: true,
 
